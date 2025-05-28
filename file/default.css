@@ -27,16 +27,16 @@ a {
   margin-top: 10px;
 }
 #text {
-  width: 272px;
+  width: 292px;
   height: 560px;
-  left: 188px;
-  top: 80px;
+  left: 120px;
+  top: 0.1px;
   position: absolute;
 }
 #code {
   display: none;
-  color: white;
-  background-color: black;    /* black background */
+  color: #d63384;
+  background-color: #fff0f5;    /* black background */
   padding: 15px;              /* space around text */    
   font-size: larger;
   font-weight: bolder;
